@@ -14,7 +14,8 @@ function UserLogin(event) {
     if (signedupUsers[i].UserEmail === Email) {
       if (signedupUsers[i].UserPass === pass) {
         alert(signedupUsers[i].UserName + " " + "Logged in Successfully");
-        window.location.href = "AfterLogin.html";
+        window.location.href = "index.html";
+        
         LoggedUser.push(signedupUsers[i]);
         localStorage.setItem("LoggedUSer", JSON.stringify(LoggedUser));
         flag = true;
