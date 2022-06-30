@@ -27,4 +27,4 @@ Hi! I have made the clone of Shopbop.com (Shopbop which is a global online Retai
 
 ## Conclusion
 > I learned a lot from this project. The experience of using common functionality in building products was amazing. Looking for more projects like this in future.
-### Thank for Reading.
+### Thanks for Reading.
